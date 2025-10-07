@@ -5,6 +5,8 @@
 Welcome to my GitHub! I’m that guy who builds stuff, trades markets, and games like it’s a full-time job.
 Always coding. Always improving. Always winning.
 
+![Coding Transparent](https://cdn.pixabay.com/animation/2023/03/27/10/51/10-51-44-979_512.gif)
+
 ---
 
 ## 🚀 About Me
