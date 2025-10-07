@@ -20,18 +20,6 @@ Always coding. Always improving. Always winning.
 
 ---
 
-## 🧩 Featured Projects
-
-> A few projects that define my grind 👇
-
-* 🔹 **[FSTRENDER](https://github.com/not-arslan/FSTRENDER):** Real-time market data visualization dashboard
-* 🔹 **[voxelnodes-website](https://github.com/not-arslan/voxelnodes-website):** Clean & minimal hosting website for Minecraft servers
-* 🔹 **[html](https://github.com/not-arslan/html):** HTML playground for quick UI experiments
-* 🔹 **[aloennodes](https://github.com/not-arslan/aloennodes):** Node hosting setup with custom features
-* 🔹 **[testing-pterofatcyuwjfhsiaudfnbvfuiy7r](https://github.com/not-arslan/testing-pterofatcyuwjfhsiaudfnbvfuiy7r):** Testing environment for backend magic
-
----
-
 ## 📊 GitHub Stats
 
 ![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-arslan\&show_icons=true\&theme=tokyonight\&hide_border=true)
