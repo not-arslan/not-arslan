@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Arslan
+# 👋 Yo, I'm KyRos
 
 **💻 DEV | 📈 TRADER | 🎮 GAMER**
 
