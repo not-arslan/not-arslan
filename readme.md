@@ -24,7 +24,7 @@ Always building. Always evolving. Always winning.
 
 ## 📊 GitHub Stats  
 
-![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-arslan&show_icons=true&theme=tokyonight&hide_border=true)  
+![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-arslan&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-arslan&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
