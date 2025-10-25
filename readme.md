@@ -29,11 +29,7 @@ Always building. Always evolving. Always winning.
 
 ---
 
-## 👀 Daily Visitors  
-
-![Visitors](https://komarev.com/ghpvc/?username=not-arslan&label=Profile%20Views&color=blueviolet&style=flat-square)  
-> Roughly 100–198 people stop by daily. Guess the grind’s paying off.  
-
+![Visitors](https://img.shields.io/badge/👀%20Profile%20Views-65,658-blueviolet?style=flat-square)
 ---
 
 ## 🎮 Gamer Links  
