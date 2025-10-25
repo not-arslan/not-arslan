@@ -29,9 +29,6 @@ Always building. Always evolving. Always winning.
 
 ---
 
-![Visitors](https://img.shields.io/badge/👀%20Profile%20Views-65,658-blueviolet?style=flat-square)
----
-
 ## 🎮 Gamer Links  
 
 * 🧱 **Minecraft:** [Xyrixs](https://namemc.com/Xyrixs)  
