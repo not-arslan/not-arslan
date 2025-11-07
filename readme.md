@@ -31,7 +31,7 @@ Always building. Always evolving. Always winning.
 
 ## 🎮 Gamer Links  
 
-* 🧱 **Minecraft:** [Xyrixs](https://namemc.com/Xyrixs)  
+* 🧱 **Minecraft:** [Xyrixs](https://namemc.com/NotArslan)  
 * 👻 **Snapchat:** [ardlan_604](https://www.snapchat.com/add/ardlan_604)  
 * 📸 **Instagram:** [@arsslanz_](https://www.instagram.com/arsslanz_/)  
 * 🐦 **X (Twitter):** [@mearslan_0](https://x.com/mearslan_0)  
